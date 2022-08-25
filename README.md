@@ -1,2 +1,5 @@
 # GitHub-demo
-This is a repository for an educational purpuse.
+This is a repository for an educational purpose.
+
+
+This was created by K. Kirilov.
